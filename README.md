@@ -7,7 +7,6 @@
 ![Storage](https://img.shields.io/badge/Storage-LVM--Thin-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-> **About this document:** This is a sanitized portfolio version of an internal runbook. Server names, VM/CT IDs, storage names, schedules, and company details are replaced with dummy values. The method, commands, and measured results reflect the real project.
 
 ---
 
@@ -246,12 +245,12 @@ This is one of three connected infrastructure case studies on the same Proxmox e
 
 | Project | How it relates |
 |---|---|
-| [Production Monitoring Stack](https://github.com/your-username/proxmox-monitoring-stack) | Deployed right after this migration to catch disk failure and I/O bottlenecks earlier. |
-| [Centralized Backup Infrastructure](https://github.com/your-username/proxmox-centralized-backup) | The backup pipeline whose end-to-end audit confirmed it was safe to release the second SSD. |
+| [Production Monitoring Stack](https://github.com/mymy-vonthys/proxmox-monitoring-stack) | Deployed right after this migration to catch disk failure and I/O bottlenecks earlier. |
+| [Centralized Backup Infrastructure](https://github.com/mymy-vonthys/proxmox-centralized-backup) | The backup pipeline whose end-to-end audit confirmed it was safe to release the second SSD. |
 
 ---
 
 ## Author
 
-**Hilmy Sonaji**, IT Infrastructure
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Hilmy Sonaji**
+[GitHub](https://github.com/mymy-vonthys) · [LinkedIn](https://linkedin.com/in/hilmy-sonaji-90908527a)
